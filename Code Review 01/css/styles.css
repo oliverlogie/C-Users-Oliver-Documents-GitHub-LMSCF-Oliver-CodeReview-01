@@ -1,0 +1,138 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#headerpic img{
+	width:  30%;
+	height: 200px;
+	float: right;
+	margin: 0;
+	position: static;
+	padding-right: 70px
+
+
+}
+
+.container{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+	background-color: #FFE4C4;
+}
+
+#textheader {
+	width: 100%;
+	height: 200px;
+}
+
+#fullstack{
+	  text-align: center;
+	  padding: 70px;
+}
+
+.topnav {
+	width: 100%;
+	height: 70px;
+	background-color: #A52A2A;
+	text-align: right;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.topnav ul {
+	padding-right: 150px;
+	padding-top: 15px;
+}
+
+.topnav li {
+	display: inline;
+	color: white;
+	margin: 10px;
+	padding: 20px;
+}
+
+.h1{
+	padding-top: 70px;
+	font-size: 90px;
+	text-align: center;
+}
+
+#samsung{
+	width: 100%;
+}
+
+.samsungpic{
+	padding-top: 200px;
+	width: 90%;
+	height: 500px;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.botimg{
+	display: flex;
+	padding-top: 100px;
+	padding-bottom: 70px;
+}
+
+.leftimg{
+	width: 80%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.rightimg{
+	width: 80%;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+.textleft{
+ 	font-weight: bold;
+ 	text-align: left;
+ 	padding-left: 10%;
+ 	padding-right: 10%;
+ 	font-size: 30px;
+ 	text-align: center;
+}
+
+.textright{
+ 	font-weight: bold;
+ 	text-align: left;
+ 	padding-left: 10%;
+ 	padding-right: 10%;
+ 	font-size: 30px;
+ 	text-align: center;
+}
+
+#footer{
+	background: #FFE4C4;
+	width: 100%;
+	height: 300px;
+}
+
+.botpic{
+	width: 400px;
+	height: 150px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	padding-top: 40px;
+
+}
+
+#footer p {
+	padding-top: 40px;
+	text-align: center;
+	font-size: 40px;
+}
