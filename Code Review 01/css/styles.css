@@ -85,18 +85,21 @@
 
 .botimg{
 	display: flex;
-	padding-top: 100px;
+	padding-top: 50px;
 	padding-bottom: 70px;
+	width: 100%;
 }
 
 .leftimg{
 	width: 80%;
+	height: 80%;
 	padding-left: 10%;
 	padding-right: 10%;
 }
 
 .rightimg{
 	width: 80%;
+	height: 80%;
 	padding-right: 10%;
 	padding-left: 10%;
 }
