@@ -3,6 +3,11 @@
 	padding: 0;
 }
 
+#header {
+	width: 100%;
+	height: 100%;
+}
+
 #headerpic img{
 	width:  30%;
 	height: 200px;
